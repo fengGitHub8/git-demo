@@ -9,6 +9,6 @@ package com.feng.util;
  */
 public class UtilB
 {
-    private String b;
 
+    private String c;
 }
