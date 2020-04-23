@@ -10,4 +10,6 @@ package com.feng.util;
 public class UtilC
 {
     private Integer c;
+
+    private Integer d;
 }
