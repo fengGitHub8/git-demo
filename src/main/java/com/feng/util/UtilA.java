@@ -9,9 +9,9 @@ package com.feng.util;
  */
 public class UtilA
 {
-    private String name;
+    private String sex;
 
-    private String age;
+    private String address;
 
     public static void main(String[] args)
     {
