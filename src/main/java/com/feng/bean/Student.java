@@ -1,9 +1,5 @@
 package com.feng.bean;
 
-import lombok.Data;
-
-import java.sql.Date;
-
 /**
  * <p>
  *
@@ -11,8 +7,6 @@ import java.sql.Date;
  *
  * @author pyf 2020-04-23
  */
-@Data
 public class Student
 {
-    private Date sampleTime;
 }
